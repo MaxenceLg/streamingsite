@@ -2,19 +2,25 @@
 
 export default function Header(){
     return (
-        <ul className="flex justify-between w-1/2">
-        <li>
+        <header>
+            <ul className="flex w-1/3 font-bold">
+                <a href="/">
+                    <li className="">
+                        Home
+                    </li>
+                </a>
+                <a href="/content">
+                    <li>
+                        Content
 
-            <a href="/">Home</a>
-        </li>
-        <li>
-
-            <a href="/content">Content</a>
-        </li>
-        <li>
-
-            <a href="/about">About</a>
-        </li>
-    </ul>
+                    </li>
+                </a>
+                <a href="/about">
+                    <li>
+                        About
+                    </li>
+                </a>
+            </ul>
+        </header>
     );
 }
