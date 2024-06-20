@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35967840-4cb4-4f13-897d-51aa32fdf2df" name="Changes" comment="First component : header to help navigation">
-      <change afterPath="$PROJECT_DIR$/src/app/not-found.tsx" afterDir="false" />
+    <list default="true" id="35967840-4cb4-4f13-897d-51aa32fdf2df" name="Changes" comment="Creating new pages, header of better navigation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/about/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/about/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/content/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/content/page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/not-found.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/not-found.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718902317852</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Creating new pages, header of better navigation">
+      <option name="closed" value="true" />
+      <created>1718910681537</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718910681537</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +127,7 @@
     <MESSAGE value="First commit to the git" />
     <MESSAGE value="patch" />
     <MESSAGE value="First component : header to help navigation" />
-    <option name="LAST_COMMIT_MESSAGE" value="First component : header to help navigation" />
+    <MESSAGE value="Creating new pages, header of better navigation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating new pages, header of better navigation" />
   </component>
 </project>
